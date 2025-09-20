@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
 # Script that displays listening ports with PID and program names
+# Author: Network Mastery Lab
+# Usage: sudo ./4-TCP_and_UDP_ports
+# Description: Shows active network connections and listening ports
+#              Requires sudo for complete process information
 
 netstat -lp
