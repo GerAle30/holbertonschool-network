@@ -402,9 +402,9 @@ After completing this project, you should be able to:
 
 ## 👤 Author
 
-**Héctor Soto** - [@hector17rock](https://github.com/hector17rock)
+**Alejandro Garcia** - [@GerAle30](https://github.com/GerAle30)
 
-*Network engineer and system administrator passionate about sharing knowledge and building practical learning resources for the tech community.*
+*Network engineer and system administrator passionate about sharing knowledge and building practical learning resources for the tech community. Focused on hands-on learning experiences and real-world networking scenarios.*
 
 ---
 
