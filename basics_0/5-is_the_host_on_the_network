@@ -1,13 +1,8 @@
 #!/usr/bin/env bash
-# Script that pings an IP address passed as an argument  
-# Author: Network Mastery Lab
-# Usage: ./5-is_the_host_on_the_network {IP_ADDRESS}
-# Description: Tests network connectivity using ICMP ping protocol
+# Script that pings an IP address passed as an argument
 
 if [ $# -eq 0 ]; then
     echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
-    echo "Example: ./5-is_the_host_on_the_network 8.8.8.8"
 else
-    echo "Testing connectivity to $1..."
     ping -c 5 "$1"
 fi
